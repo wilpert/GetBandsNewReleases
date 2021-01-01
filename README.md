@@ -35,6 +35,6 @@ Just only one comment about the bands' IDs that are kept in the list with the di
 
 ## Disclaimer
 
-This project is a purely personal one, which was born out of my love for metal music and searching for an automatic way of checking for new releases in an automated. I cannot promise that I will extend the functionality, it just works as it is now for my purposes. Of course, if you find any bugs that I am not aware of I would be glad, if you would take the time to report them.
+This project is a purely personal one, which was born out of my love for metal music and searching for an automated way of checking for new releases. I cannot promise that I will extend the functionality, it just works as it is now for my purposes. Of course, if you find any bugs that I am not aware of I would be glad, if you would take the time to report them.
 
 I cannot guarantee that the Encyclopedia Metallum will continue supporting this type of access to their servers in the future. Also, the connection to their servers does not always work as desired: sometimes it takes a lot of time before establishing the initial connection; sometimes it gets lost while still searching for albums. There is nothing I can do here, just be patient and try later again. AFAIK the service provided by the Encyclopedia Metallum is for free and I immensely grateful for having access to such wealth of information, by whatever means.
