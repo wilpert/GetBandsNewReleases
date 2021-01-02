@@ -174,8 +174,14 @@ class CSVData(object):
                                 if not self.is_album_in_collection(band, metallum_album_title) and \
                                         (release_lower_bound <= metallum_album.date.year <= release_upper_bound) \
                                         and not (metallum_release_date > datetime.date.today()):
-                                    sys.stdout.write("[BAND] {0} \x1b[{1}m[NEW_ALBUM]\x1b[0m {2} ({3})\n".format(
-                                        band, CSVData.green_ansi_code, metallum_album_title, metallum_release_date))
+                                    sys.stdout.write("[BAND] {0} \x1b[{1}m[NEW_ALBUM]\x1b[0m {2} ({3}) "
+                                                     "[SCORE] {4}% (of {5} reviews)\n".
+                                                     format(band,
+                                                            CSVData.green_ansi_code,
+                                                            metallum_album_title,
+                                                            metallum_release_date,
+                                                            metallum_album.score,
+                                                            metallum_album.review_count))
                                     new_releases.append([band, metallum_album_title, str(metallum_release_date)])
 
                     # rare condition:
