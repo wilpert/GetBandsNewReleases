@@ -4,7 +4,7 @@ Search the awesome Encyclopaedia Metallum for bands' albums you do not have yet 
 
 This assumes that you store your music collection locally or at least that you have full access to the metadata stored in your collection. I know, this is nowadays not common any more... The main challenge for you will probably be to extract the metadata from your collection in an automated way; I use for this the application TagScanner from Sergey Serkov (https://www.xdlab.ru/en/): it delivers a CSV file with all the metadata I need, which I convert then to the JSON format with a small piece of Python code.
 
-One note about the genre classification: in the example you will find in this repository a band is classifed as *metal* only if it is listed in the Encyclopaedia Metallum, everything else is tagged as *rock*. Not everybody will agree with the criteria used by the Encyclopaedia Metallum (hey, I hear you, Slipknot ist not metal??), but they use a strict definition that is well explained (see here, if you care: https://www.metal-archives.com/content/rules).
+One note about the genre classification: in the example you will find in this repository a band is classifed as *metal* only if it is listed in the Encyclopaedia Metallum, everything else is tagged as *rock*. Not everyone will agree with the criteria used by the Encyclopaedia Metallum (hey, I hear you, Slipknot ist not metal??), but they use a strict definition that is well explained (see here, if you care: https://www.metal-archives.com/content/rules) and for it is a reference I can rely upon.
 
 ## Dependencies
 
