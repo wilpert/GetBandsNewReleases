@@ -166,6 +166,8 @@ class CSVData(object):
                             for metallum_album in metallum_albums:
                                 metallum_album_title = metallum_album.title
                                 metallum_release_date = metallum_album.date.date()
+                                metallum_album_score = metallum_album.score
+                                metallum_album_review_count = metallum_album.review_count
 
                                 # a new album's release is reported only if:
                                 # - the album does not belong already to the collection
@@ -180,9 +182,15 @@ class CSVData(object):
                                                             CSVData.green_ansi_code,
                                                             metallum_album_title,
                                                             metallum_release_date,
-                                                            metallum_album.score,
-                                                            metallum_album.review_count))
-                                    new_releases.append([band, metallum_album_title, str(metallum_release_date)])
+                                                            metallum_album_score,
+                                                            metallum_album_review_count))
+                                    new_releases.append([
+                                        band,
+                                        metallum_album_title,
+                                        str(metallum_release_date),
+                                        str(metallum_album_score),
+                                        str(metallum_album_review_count)
+                                    ])
 
                     # rare condition:
                     # - there are several bands with the same name
@@ -200,7 +208,12 @@ class CSVData(object):
             with codecs.open("new_releases.json", 'w', encoding='utf-8') as new_releases_f:
                 json_data = []
                 for new_release in new_releases:
-                    json_data.append({'band': new_release[0], 'album': new_release[1], 'release_date': new_release[2]})
+                    json_data.append({'band': new_release[0],
+                                      'album': new_release[1],
+                                      'release_date': new_release[2],
+                                      'average_score': "{0}%".format(new_release[3]),
+                                      'review_count': new_release[4]
+                                      })
                 json.dump(json.loads(json.dumps(json_data)), new_releases_f, indent=2)
 
 
