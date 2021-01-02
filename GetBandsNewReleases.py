@@ -2,6 +2,7 @@ import argparse
 import codecs
 import datetime
 import json
+import re
 import sys
 
 # https://github.com/lcharlick/python-metallum
@@ -82,14 +83,27 @@ class CSVData(object):
                 needs_disambiguation = True  # skip band from the search
         return needs_disambiguation
 
-    def find_new_releases(self, args_threshold_year, args_skip_splitup_bands):
+    @staticmethod
+    def parse_release_interval(args_release_interval):
+        release_interval_re = re.compile(r"(\d\d\d\d)-(\d\d\d\d)")
+        release_interval_m = re.match(release_interval_re, args_release_interval)
+        if release_interval_m:
+            return int(release_interval_m.group(1)), int(release_interval_m.group(2))
+        else:
+            sys.stderr.write("[ERROR] release interval invalid: {0}. It should a sequence of two four-digit numbers "
+                             "separated by a hpyhen, for example: 2010-2016 or 2010-2010\n".
+                             format(args_release_interval))
+            sys.exit(1)
+
+    def find_new_releases(self, args_release_interval, args_skip_splitup_bands):
         """
         for each band in the collection list the albums not owned that have been released after a given year
-        :param args_threshold_year: a release year, from which to search for new albums
+        :param args_release_interval: interval in years within (and including) it will be searched for new releases
         :param args_skip_splitup_bands: if True, bands, whose status is listed as "Split-up" will be skipped
         :return: nothing, this function prints only log messages and writes a json file with the new releases
         """
         new_releases = []
+        release_lower_bound, release_upper_bound = CSVData.parse_release_interval(args_release_interval)
 
         for band in self.bands_data:
             bands = metallum.band_search(band)
@@ -144,6 +158,10 @@ class CSVData(object):
                                 len(metallum_albums),
                                 percent_owned))
 
+                            # if all band's albums are in the collection, skip searching for new ones :-)
+                            if int(percent_owned) == 100:
+                                continue
+
                             # finally search for new albums
                             for metallum_album in metallum_albums:
                                 metallum_album_title = metallum_album.title
@@ -151,11 +169,11 @@ class CSVData(object):
 
                                 # a new album's release is reported only if:
                                 # - the album does not belong already to the collection
-                                # - the release date (year) of the album is equal or greater to a given threshold
-                                # - albums with release dates that are set in the future are excluded
+                                # - the release date (year) of the album is within the given release interval
+                                # - albums with release dates happening in the future are excluded
                                 if not self.is_album_in_collection(band, metallum_album_title) and \
-                                        metallum_album.date.year >= args_threshold_year and not (
-                                        metallum_release_date > datetime.date.today()):
+                                        (release_lower_bound <= metallum_album.date.year <= release_upper_bound) \
+                                        and not (metallum_release_date > datetime.date.today()):
                                     sys.stdout.write("[BAND] {0} \x1b[{1}m[NEW_ALBUM]\x1b[0m {2} ({3})\n".format(
                                         band, CSVData.green_ansi_code, metallum_album_title, metallum_release_date))
                                     new_releases.append([band, metallum_album_title, str(metallum_release_date)])
@@ -189,11 +207,13 @@ parser.add_argument(
     required=True,
     type=str)
 parser.add_argument(
-    '-y',
-    '--threshold_year',
-    help='Starting from which year (included) should the new releases be searched for',
+    '-r',
+    '--release_interval',
+    help='Interval in years (for example 2010-2016 or 2010-2010) within (and including) it will be searched for new '
+         'releases',
     required=True,
-    type=int)
+    default=None,
+    type=str)
 parser.add_argument(
     '-s',
     '--skip_bands',
@@ -219,4 +239,4 @@ parser.add_argument(
 
 args = parser.parse_args()
 CSVData(args.albumlist, args.disambiguations, args.skip_bands).find_new_releases(
-    args.threshold_year, args.skip_splitup_bands)
+    args.release_interval, args.skip_splitup_bands)
