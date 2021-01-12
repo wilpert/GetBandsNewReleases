@@ -37,10 +37,10 @@ Currently there is no documentation except for the comments scattered in the cod
 
 Only the first two arguments are required: the JSON file with the bands and albums in your collection and the release interval. You will find examples for all the input files (album list, skip-bands list and disambiguations list) in the data/ directory.
 
-Just only one comment about the bands' IDs that are kept in the list with the disambiguations: You will find this ID in the URL for the band page; for example, in case of Metallica this ID is 125 (https://www.metal-archives.com/bands/Metallica/125). There is also a way of retrieving this ID using the python API exposed by the module python-metallum, and this indeed done in the script to compare the bands' IDs.
+Just only one comment about the bands' IDs that are kept in the list with the disambiguations: You will find this ID in the URL for the band page; for example, in case of Metallica this ID is 125 (https://www.metal-archives.com/bands/Metallica/125). There is also a way of retrieving this ID using the python API exposed by the module python-metallum, and this is indeed done in the script to compare the bands' IDs.
 
 ## Disclaimer
 
-This project is a purely personal one, which was born out of my love for metal music and searching for an automated way of checking for new releases. I cannot promise that I will extend the functionality, it works quite well as it is now for my purposes. Of course, if you find any bugs that I am not aware of I would be glad, if you would take the time to report them.
+This project was born out of my love for metal music and for searching for an automated way of checking for new releases in my rather-bigger-than-small collection. If you find any bugs that I am not aware of I would be glad, if you would take the time to report them, but I cannot promise that I will extend the functionality.
 
 I cannot either guarantee that the Encyclopedia Metallum site will continue supporting this type of access to their servers in the future. Also, the connection to their servers does not always work as desired: sometimes it takes a lot of time before establishing the initial connection; sometimes it gets lost while still searching for albums. There is nothing I can do here, just be patient and try later again. AFAIK the service provided by the Encyclopedia Metallum is for free and I immensely grateful for having access to such wealth of information, by whatever means.
