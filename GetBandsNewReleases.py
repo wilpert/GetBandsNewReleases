@@ -140,7 +140,7 @@ class CSVData(object):
                             # trace down which bands have split-up; this information could be used to add these bands
                             # to the list of bands to be skipped and so decrease the searching time. We do not want
                             # to skip them by default because it could be useful to look for other band's albums than
-                            # he latest ones, and who knows: perhaps the band reunite again under the same name; if
+                            # the latest ones, and who knows: perhaps the band reunite again under the same name; if
                             # you want to skip them, use the --skip_splitup_bands switch
                             if metallum_band_page.status == "Split-up":
                                 sys.stdout.write(" \x1b[{0}m[SPLIT-UP]\x1b[0m".format(CSVData.yellow_ansi_code))
