@@ -8,7 +8,7 @@ One note about the genre classification: in the example you will find in this re
 
 ## Dependencies
 
-The script has been written in the Python programming language and tested with Python 3.8, but it should work with any version of Python 3, perhaps even with Python 2 after some minor changes.
+The script has been written in the Python programming language and tested with Python 3.8, but it should work with any version of Python 3, probably also with Python 2, after some minor changes.
 
 The script depends on only one external module to work: python-metalum from Lachlan Charlick (https://github.com/lcharlick/python-metallum). Thanks, Lachlan, for your work!
 
@@ -43,4 +43,4 @@ Just only one comment about the bands' IDs that are kept in the list with the di
 
 This project was born out of my love for metal music and for searching for an automated way of checking for new releases in my rather-bigger-than-small collection. If you find any bugs that I am not aware of I would be glad, if you would take the time to report them, but I cannot promise that I will extend the functionality.
 
-I cannot either guarantee that the Encyclopedia Metallum site will continue supporting this type of access to their servers in the future. Also, the connection to their servers does not always work as desired: sometimes it takes a lot of time before establishing the initial connection; sometimes it gets lost while still searching for albums. There is nothing I can do here, just be patient and try later again. AFAIK the service provided by the Encyclopedia Metallum is for free and am I immensely grateful for having access to such wealth of information, by whatever means.
+I cannot either guarantee that the Encyclopedia Metallum site will continue supporting this type of access to their servers in the future. Also, the connection to their servers does not always work as desired: sometimes it takes a lot of time before establishing the initial connection; sometimes it gets lost while still searching for albums. There is nothing I can do here, just be patient and try later again. AFAIK the service provided by the Encyclopedia Metallum is for free and am I immensely grateful for having access to such wealth of information.
