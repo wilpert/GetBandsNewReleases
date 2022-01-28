@@ -1,1 +1,4530 @@
-../../SelectRandomAlbum/albumlist.json
+[
+  {
+    "albums": [
+      {
+        "album": "High Voltage",
+        "year": 1975
+      },
+      {
+        "album": "Dirty Deeds Done Dirt Cheap",
+        "year": 1976
+      },
+      {
+        "album": "Let There Be Rock",
+        "year": 1977
+      },
+      {
+        "album": "Powerage",
+        "year": 1978
+      },
+      {
+        "album": "Highway to Hell",
+        "year": 1979
+      },
+      {
+        "album": "Back in Black",
+        "year": 1980
+      },
+      {
+        "album": "For Those About to Rock We Salute You",
+        "year": 1981
+      },
+      {
+        "album": "The Razors Edge",
+        "year": 1990
+      },
+      {
+        "album": "Black Ice",
+        "year": 2008
+      },
+      {
+        "album": "Rock or Bust",
+        "year": 2014
+      }
+    ],
+    "band": "AC/DC",
+    "genre": "Rock"
+  },
+  {
+    "albums": [
+      {
+        "album": "Verwüstung / Invoke the Dark Age",
+        "year": 1994
+      },
+      {
+        "album": "Nachthymnen (From the Twilight Kingdom)",
+        "year": 1995
+      },
+      {
+        "album": "Orkblut - The Retaliation",
+        "year": 1995
+      },
+      {
+        "album": "Opus IV",
+        "year": 1996
+      },
+      {
+        "album": "Channeling the Quintessence of Satan",
+        "year": 1999
+      },
+      {
+        "album": "Leytmotif Luzifer (The 7 Temptations of Man)",
+        "year": 2014
+      },
+      {
+        "album": "Höllenzwang (Chronicles of Perdition)",
+        "year": 2018
+      },
+      {
+        "album": "Totschläger (A Saintslayer's Songbook)",
+        "year": 2020
+      }
+    ],
+    "band": "Abigor",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "The Third Storm of Cythrául",
+        "year": 1997
+      },
+      {
+        "album": "Tara",
+        "year": 2001
+      }
+    ],
+    "band": "Absu",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Restless and Wild",
+        "year": 1982
+      },
+      {
+        "album": "Balls to the Wall",
+        "year": 1983
+      },
+      {
+        "album": "Metal Heart",
+        "year": 1985
+      }
+    ],
+    "band": "Accept",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Aerosmith",
+        "year": 1973
+      },
+      {
+        "album": "Get Your Wings",
+        "year": 1974
+      },
+      {
+        "album": "Toys in the Attic",
+        "year": 1975
+      },
+      {
+        "album": "Rocks",
+        "year": 1976
+      },
+      {
+        "album": "Permanent Vacation",
+        "year": 1987
+      },
+      {
+        "album": "Pump",
+        "year": 1989
+      },
+      {
+        "album": "Get a Grip",
+        "year": 1993
+      }
+    ],
+    "band": "Aerosmith",
+    "genre": "Rock"
+  },
+  {
+    "albums": [
+      {
+        "album": "Rareform",
+        "year": 2008
+      },
+      {
+        "album": "Wolves Within",
+        "year": 2013
+      },
+      {
+        "album": "Dig Deep",
+        "year": 2016
+      },
+      {
+        "album": "Evergreen",
+        "year": 2019
+      }
+    ],
+    "band": "After the Burial",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Pale Folklore",
+        "year": 1999
+      },
+      {
+        "album": "The Mantle",
+        "year": 2002
+      },
+      {
+        "album": "Ashes Against the Grain",
+        "year": 2006
+      },
+      {
+        "album": "Marrow of the Spirit",
+        "year": 2010
+      },
+      {
+        "album": "The Serpent & the Sphere",
+        "year": 2014
+      }
+    ],
+    "band": "Agalloch",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Facelift",
+        "year": 1990
+      },
+      {
+        "album": "Dirt",
+        "year": 1992
+      },
+      {
+        "album": "Jar of Flies",
+        "year": 1994
+      },
+      {
+        "album": "Black Gives Way to Blue",
+        "year": 2009
+      }
+    ],
+    "band": "Alice in Chains",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Fragments of Form and Function",
+        "year": 2010
+      },
+      {
+        "album": "Elements of the Infinite",
+        "year": 2014
+      },
+      {
+        "album": "Proponent for Sentience",
+        "year": 2016
+      },
+      {
+        "album": "Apoptosis",
+        "year": 2019
+      }
+    ],
+    "band": "Allegaeon",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Once Sent from the Golden Hall",
+        "year": 1998
+      },
+      {
+        "album": "The Avenger",
+        "year": 1999
+      },
+      {
+        "album": "The Crusher",
+        "year": 2001
+      },
+      {
+        "album": "Versus the World",
+        "year": 2002
+      },
+      {
+        "album": "Fate of Norns",
+        "year": 2004
+      },
+      {
+        "album": "With Oden on Our Side",
+        "year": 2006
+      },
+      {
+        "album": "Twilight of the Thunder God",
+        "year": 2008
+      },
+      {
+        "album": "Surtur Rising",
+        "year": 2011
+      },
+      {
+        "album": "Deceiver of the Gods",
+        "year": 2013
+      },
+      {
+        "album": "Jomsviking",
+        "year": 2016
+      },
+      {
+        "album": "Berserker",
+        "year": 2019
+      }
+    ],
+    "band": "Amon Amarth",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "The Codex Necro",
+        "year": 2001
+      },
+      {
+        "album": "Domine Non Es Dignus",
+        "year": 2004
+      },
+      {
+        "album": "Eschaton",
+        "year": 2006
+      },
+      {
+        "album": "Hell Is Empty, and All the Devils Are Here",
+        "year": 2007
+      },
+      {
+        "album": "In the Constellation of the Black Widow",
+        "year": 2009
+      },
+      {
+        "album": "The Whole of the Law",
+        "year": 2016
+      },
+      {
+        "album": "A New Kind of Horror",
+        "year": 2018
+      },
+      {
+        "album": "Endarkenment",
+        "year": 2020
+      }
+    ],
+    "band": "Anaal Nathrakh",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "The Infernal Depths of Hatred",
+        "year": 1998
+      },
+      {
+        "album": "Dreams of Death and Dismay",
+        "year": 2001
+      },
+      {
+        "album": "Under a Stone with No Inscription",
+        "year": 2004
+      },
+      {
+        "album": "The Conductor's Departure",
+        "year": 2006
+      }
+    ],
+    "band": "Anata",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Spreading the Disease",
+        "year": 1985
+      },
+      {
+        "album": "Among the Living",
+        "year": 1987
+      },
+      {
+        "album": "State of Euphoria",
+        "year": 1988
+      },
+      {
+        "album": "Persistence of Time",
+        "year": 1990
+      },
+      {
+        "album": "Sound of White Noise",
+        "year": 1993
+      },
+      {
+        "album": "We've Come for You All",
+        "year": 2003
+      },
+      {
+        "album": "Worship Music",
+        "year": 2011
+      },
+      {
+        "album": "For All Kings",
+        "year": 2016
+      }
+    ],
+    "band": "Anthrax",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "The Lucid Collective",
+        "year": 2014
+      },
+      {
+        "album": "Relentless Mutation",
+        "year": 2017
+      },
+      {
+        "album": "Bleed the Future",
+        "year": 2021
+      }
+    ],
+    "band": "Archspire",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "A Celebration of Guilt",
+        "year": 2004
+      },
+      {
+        "album": "United in Regret",
+        "year": 2006
+      },
+      {
+        "album": "We Are the Nightmare",
+        "year": 2008
+      },
+      {
+        "album": "Visitant",
+        "year": 2018
+      }
+    ],
+    "band": "Arsis",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Terminal Spirit Disease",
+        "year": 1994
+      },
+      {
+        "album": "Slaughter of the Soul",
+        "year": 1995
+      },
+      {
+        "album": "At War with Reality",
+        "year": 2014
+      },
+      {
+        "album": "To Drink from the Night Itself",
+        "year": 2018
+      },
+      {
+        "album": "The Nightmare of Being",
+        "year": 2021
+      }
+    ],
+    "band": "At the Gates",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Piece of Time",
+        "year": 1989
+      },
+      {
+        "album": "Unquestionable Presence",
+        "year": 1991
+      },
+      {
+        "album": "Elements",
+        "year": 1993
+      }
+    ],
+    "band": "Atheist",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Thrill Seeker",
+        "year": 2005
+      },
+      {
+        "album": "Messengers",
+        "year": 2007
+      },
+      {
+        "album": "Constellations",
+        "year": 2009
+      },
+      {
+        "album": "Leveler",
+        "year": 2011
+      },
+      {
+        "album": "Rescue & Restore",
+        "year": 2013
+      },
+      {
+        "album": "Found in Far Away Places",
+        "year": 2015
+      },
+      {
+        "album": "Phantom Anthem",
+        "year": 2017
+      },
+      {
+        "album": "Guardians",
+        "year": 2020
+      }
+    ],
+    "band": "August Burns Red",
+    "genre": "Rock"
+  },
+  {
+    "albums": [
+      {
+        "album": "Severed Survival",
+        "year": 1989
+      },
+      {
+        "album": "Mental Funeral",
+        "year": 1991
+      },
+      {
+        "album": "Acts of the Unspeakable",
+        "year": 1992
+      },
+      {
+        "album": "Macabre Eternal",
+        "year": 2011
+      }
+    ],
+    "band": "Autopsy",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Waking the Fallen",
+        "year": 2003
+      },
+      {
+        "album": "City of Evil",
+        "year": 2005
+      },
+      {
+        "album": "Avenged Sevenfold",
+        "year": 2007
+      },
+      {
+        "album": "Nightmare",
+        "year": 2010
+      },
+      {
+        "album": "Hail to the King",
+        "year": 2013
+      },
+      {
+        "album": "The Stage",
+        "year": 2016
+      }
+    ],
+    "band": "Avenged Sevenfold",
+    "genre": "Rock"
+  },
+  {
+    "albums": [
+      {
+        "album": "Red Album",
+        "year": 2007
+      },
+      {
+        "album": "Blue Record",
+        "year": 2009
+      },
+      {
+        "album": "Yellow & Green",
+        "year": 2012
+      },
+      {
+        "album": "Purple",
+        "year": 2015
+      },
+      {
+        "album": "Gold & Grey",
+        "year": 2019
+      }
+    ],
+    "band": "Baroness",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Bathory",
+        "year": 1984
+      },
+      {
+        "album": "Under the Sign of the Black Mark",
+        "year": 1987
+      },
+      {
+        "album": "Blood Fire Death",
+        "year": 1988
+      },
+      {
+        "album": "Hammerheart",
+        "year": 1990
+      },
+      {
+        "album": "Blood on Ice",
+        "year": 1996
+      }
+    ],
+    "band": "Bathory",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Satanica",
+        "year": 1999
+      },
+      {
+        "album": "Thelema.6",
+        "year": 2000
+      },
+      {
+        "album": "Zos Kia Cultus",
+        "year": 2002
+      },
+      {
+        "album": "Demigod",
+        "year": 2004
+      },
+      {
+        "album": "The Apostasy",
+        "year": 2007
+      },
+      {
+        "album": "Evangelion",
+        "year": 2009
+      },
+      {
+        "album": "The Satanist",
+        "year": 2014
+      },
+      {
+        "album": "I Loved You at Your Darkest",
+        "year": 2018
+      }
+    ],
+    "band": "Behemoth",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Fearmonger",
+        "year": 2020
+      }
+    ],
+    "band": "Beneath the Massacre",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "The Aura",
+        "year": 2011
+      },
+      {
+        "album": "Earthborn Evolution",
+        "year": 2014
+      },
+      {
+        "album": "Algorythm",
+        "year": 2018
+      }
+    ],
+    "band": "Beyond Creation",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Black Sabbath",
+        "year": 1970
+      },
+      {
+        "album": "Paranoid",
+        "year": 1970
+      },
+      {
+        "album": "Master of Reality",
+        "year": 1971
+      },
+      {
+        "album": "Vol. 4",
+        "year": 1972
+      },
+      {
+        "album": "Sabbath Bloody Sabbath",
+        "year": 1973
+      },
+      {
+        "album": "Sabotage",
+        "year": 1975
+      },
+      {
+        "album": "Heaven and Hell",
+        "year": 1980
+      },
+      {
+        "album": "Mob Rules",
+        "year": 1981
+      }
+    ],
+    "band": "Black Sabbath",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Starspawn",
+        "year": 2016
+      },
+      {
+        "album": "Hidden History of the Human Race",
+        "year": 2019
+      }
+    ],
+    "band": "Blood Incantation",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Resurrection Through Carnage",
+        "year": 2002
+      },
+      {
+        "album": "Nightmares Made Flesh",
+        "year": 2004
+      },
+      {
+        "album": "The Fathomless Mastery",
+        "year": 2008
+      },
+      {
+        "album": "Grand Morbid Funeral",
+        "year": 2014
+      },
+      {
+        "album": "The Arrow of Satan Is Drawn",
+        "year": 2018
+      }
+    ],
+    "band": "Bloodbath",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Bloodshot Dawn",
+        "year": 2012
+      },
+      {
+        "album": "Demons",
+        "year": 2014
+      },
+      {
+        "album": "Reanimation",
+        "year": 2018
+      }
+    ],
+    "band": "Bloodshot Dawn",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "The Machinations of Dementia",
+        "year": 2007
+      },
+      {
+        "album": "The Animation of Entomology",
+        "year": 2011
+      }
+    ],
+    "band": "Blotted Science",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Ultima Thulée",
+        "year": 1995
+      },
+      {
+        "album": "Memoria Vetusta I: Fathers of the Icy Age",
+        "year": 1996
+      },
+      {
+        "album": "Memoria Vetusta II: Dialogue with the Stars",
+        "year": 2009
+      },
+      {
+        "album": "Memoria Vetusta III: Saturnian Poetry",
+        "year": 2014
+      },
+      {
+        "album": "Hallucinogen",
+        "year": 2019
+      }
+    ],
+    "band": "Blut aus Nord",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Realm of Chaos: Slaves to Darkness",
+        "year": 1989
+      },
+      {
+        "album": "War Master",
+        "year": 1991
+      },
+      {
+        "album": "The IVth Crusade",
+        "year": 1992
+      },
+      {
+        "album": "...For Victory",
+        "year": 1994
+      },
+      {
+        "album": "Those Once Loyal",
+        "year": 2005
+      }
+    ],
+    "band": "Bolt Thrower",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Slippery When Wet",
+        "year": 1986
+      },
+      {
+        "album": "New Jersey",
+        "year": 1988
+      },
+      {
+        "album": "Keep the Faith",
+        "year": 1992
+      },
+      {
+        "album": "These Days",
+        "year": 1995
+      }
+    ],
+    "band": "Bon Jovi",
+    "genre": "Rock"
+  },
+  {
+    "albums": [
+      {
+        "album": "Apocalyptic Feasting",
+        "year": 2008
+      },
+      {
+        "album": "Quantum Catastrophe",
+        "year": 2010
+      },
+      {
+        "album": "Boundless Obscenity",
+        "year": 2016
+      }
+    ],
+    "band": "Brain Drill",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Det som engang var",
+        "year": 1993
+      },
+      {
+        "album": "Hvis lyset tar oss",
+        "year": 1994
+      },
+      {
+        "album": "Burzum / Aske",
+        "year": 1995
+      },
+      {
+        "album": "Filosofem",
+        "year": 1996
+      },
+      {
+        "album": "Fallen",
+        "year": 2011
+      }
+    ],
+    "band": "Burzum",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Epicus Doomicus Metallicus",
+        "year": 1986
+      },
+      {
+        "album": "Nightfall",
+        "year": 1987
+      },
+      {
+        "album": "Candlemass",
+        "year": 2005
+      },
+      {
+        "album": "Death Magic Doom",
+        "year": 2009
+      },
+      {
+        "album": "The Door to Doom",
+        "year": 2019
+      }
+    ],
+    "band": "Candlemass",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Butchered at Birth",
+        "year": 1991
+      },
+      {
+        "album": "Tomb of the Mutilated",
+        "year": 1992
+      },
+      {
+        "album": "The Bleeding",
+        "year": 1994
+      },
+      {
+        "album": "Vile",
+        "year": 1996
+      },
+      {
+        "album": "Kill",
+        "year": 2006
+      },
+      {
+        "album": "Torture",
+        "year": 2012
+      },
+      {
+        "album": "A Skeletal Domain",
+        "year": 2014
+      },
+      {
+        "album": "Red Before Black",
+        "year": 2017
+      },
+      {
+        "album": "Violence Unimagined",
+        "year": 2021
+      }
+    ],
+    "band": "Cannibal Corpse",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Symphonies of Sickness",
+        "year": 1989
+      },
+      {
+        "album": "Necroticism - Descanting the Insalubrious",
+        "year": 1991
+      },
+      {
+        "album": "Heartwork",
+        "year": 1993
+      },
+      {
+        "album": "Swansong",
+        "year": 1996
+      },
+      {
+        "album": "Surgical Steel",
+        "year": 2013
+      },
+      {
+        "album": "Torn Arteries",
+        "year": 2021
+      }
+    ],
+    "band": "Carcass",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Humanure",
+        "year": 2004
+      },
+      {
+        "album": "The Harvest Floor",
+        "year": 2009
+      },
+      {
+        "album": "Monolith of Inhumanity",
+        "year": 2012
+      },
+      {
+        "album": "The Anthropocene Extinction",
+        "year": 2015
+      },
+      {
+        "album": "Death Atlas",
+        "year": 2019
+      }
+    ],
+    "band": "Cattle Decapitation",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Morbid Tales",
+        "year": 1984
+      },
+      {
+        "album": "To Mega Therion",
+        "year": 1985
+      },
+      {
+        "album": "Into the Pandemonium",
+        "year": 1987
+      },
+      {
+        "album": "Vanity / Nemesis",
+        "year": 1990
+      },
+      {
+        "album": "Monotheist",
+        "year": 2006
+      }
+    ],
+    "band": "Celtic Frost",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Something Wild",
+        "year": 1997
+      },
+      {
+        "album": "Hatebreeder",
+        "year": 1999
+      },
+      {
+        "album": "Follow the Reaper",
+        "year": 2000
+      },
+      {
+        "album": "Hate Crew Deathroll",
+        "year": 2003
+      },
+      {
+        "album": "Are You Dead Yet?",
+        "year": 2005
+      }
+    ],
+    "band": "Children of Bodom",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Petitioning the Empty Sky",
+        "year": 1996
+      },
+      {
+        "album": "When Forever Comes Crashing",
+        "year": 1998
+      },
+      {
+        "album": "Jane Doe",
+        "year": 2001
+      },
+      {
+        "album": "You Fail Me Redux",
+        "year": 2004
+      },
+      {
+        "album": "No Heroes",
+        "year": 2006
+      },
+      {
+        "album": "Axe to Fall",
+        "year": 2009
+      },
+      {
+        "album": "All We Love We Leave Behind",
+        "year": 2012
+      },
+      {
+        "album": "The Dusk in Us",
+        "year": 2017
+      }
+    ],
+    "band": "Converge",
+    "genre": "Rock"
+  },
+  {
+    "albums": [
+      {
+        "album": "R.I.P.",
+        "year": 1987
+      },
+      {
+        "album": "Punishment for Decadence",
+        "year": 1988
+      },
+      {
+        "album": "No More Color",
+        "year": 1989
+      },
+      {
+        "album": "Mental Vortex",
+        "year": 1991
+      },
+      {
+        "album": "Grin",
+        "year": 1993
+      }
+    ],
+    "band": "Coroner",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Blasphemy Made Flesh",
+        "year": 1994
+      },
+      {
+        "album": "None So Vile",
+        "year": 1996
+      },
+      {
+        "album": "Whisper Supremacy",
+        "year": 1998
+      },
+      {
+        "album": "Once Was Not",
+        "year": 2005
+      }
+    ],
+    "band": "Cryptopsy",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Focus",
+        "year": 1993
+      },
+      {
+        "album": "Traced in Air",
+        "year": 2008
+      },
+      {
+        "album": "Kindly Bent to Free Us",
+        "year": 2014
+      }
+    ],
+    "band": "Cynic",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Danzig",
+        "year": 1988
+      },
+      {
+        "album": "Danzig II: Lucifuge",
+        "year": 1990
+      },
+      {
+        "album": "Danzig III: How the Gods Kill",
+        "year": 1992
+      }
+    ],
+    "band": "Danzig",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Darkness Descends",
+        "year": 1986
+      },
+      {
+        "album": "Leave Scars",
+        "year": 1989
+      },
+      {
+        "album": "Time Does Not Heal",
+        "year": 1991
+      }
+    ],
+    "band": "Dark Angel",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "A Blaze in the Northern Sky",
+        "year": 1992
+      },
+      {
+        "album": "Under a Funeral Moon",
+        "year": 1993
+      },
+      {
+        "album": "Transilvanian Hunger",
+        "year": 1994
+      },
+      {
+        "album": "Panzerfaust",
+        "year": 1995
+      },
+      {
+        "album": "Old Star",
+        "year": 2019
+      },
+      {
+        "album": "Eternal Hails......",
+        "year": 2021
+      }
+    ],
+    "band": "Darkthrone",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Sunbather",
+        "year": 2013
+      },
+      {
+        "album": "New Bermuda",
+        "year": 2015
+      }
+    ],
+    "band": "Deafheaven",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Scream Bloody Gore",
+        "year": 1987
+      },
+      {
+        "album": "Leprosy",
+        "year": 1988
+      },
+      {
+        "album": "Spiritual Healing",
+        "year": 1990
+      },
+      {
+        "album": "Human",
+        "year": 1991
+      },
+      {
+        "album": "Individual Thought Patterns",
+        "year": 1993
+      },
+      {
+        "album": "Symbolic",
+        "year": 1995
+      },
+      {
+        "album": "The Sound of Perseverance",
+        "year": 1998
+      }
+    ],
+    "band": "Death",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Inquisitors of Satan",
+        "year": 2002
+      },
+      {
+        "album": "Si monvmentvm reqvires, circvmspice",
+        "year": 2004
+      },
+      {
+        "album": "Fas – Ite, Maledicti, in Ignem Aeternum",
+        "year": 2007
+      },
+      {
+        "album": "Paracletus",
+        "year": 2010
+      },
+      {
+        "album": "The Synarchy of Molten Bones",
+        "year": 2016
+      },
+      {
+        "album": "The Furnaces of Palingenesia",
+        "year": 2019
+      }
+    ],
+    "band": "Deathspell Omega",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Winds of Creation",
+        "year": 2000
+      },
+      {
+        "album": "Nihility",
+        "year": 2002
+      },
+      {
+        "album": "The Negation",
+        "year": 2004
+      },
+      {
+        "album": "Organic Hallucinosis",
+        "year": 2006
+      },
+      {
+        "album": "Carnival Is Forever",
+        "year": 2011
+      },
+      {
+        "album": "Blood Mantra",
+        "year": 2014
+      },
+      {
+        "album": "Anticult",
+        "year": 2017
+      }
+    ],
+    "band": "Decapitated",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Diminishing Between Worlds",
+        "year": 2008
+      },
+      {
+        "album": "Polarity",
+        "year": 2010
+      }
+    ],
+    "band": "Decrepit Birth",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Deep Purple in Rock",
+        "year": 1970
+      },
+      {
+        "album": "Fireball",
+        "year": 1971
+      },
+      {
+        "album": "Machine Head",
+        "year": 1972
+      },
+      {
+        "album": "Made In Japan (2014 Remaster)",
+        "year": 1972
+      },
+      {
+        "album": "Made in Japan (Original 1972 Mix)",
+        "year": 1972
+      },
+      {
+        "album": "Burn",
+        "year": 1974
+      },
+      {
+        "album": "Stormbringer",
+        "year": 1974
+      },
+      {
+        "album": "Perfect Strangers",
+        "year": 1984
+      }
+    ],
+    "band": "Deep Purple",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "High 'n' Dry",
+        "year": 1981
+      },
+      {
+        "album": "Pyromania",
+        "year": 1983
+      }
+    ],
+    "band": "Def Leppard",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Deicide",
+        "year": 1990
+      },
+      {
+        "album": "Legion",
+        "year": 1992
+      },
+      {
+        "album": "Serpents of the Light",
+        "year": 1997
+      },
+      {
+        "album": "The Stench of Redemption",
+        "year": 2006
+      },
+      {
+        "album": "Overtures of Blasphemy",
+        "year": 2018
+      }
+    ],
+    "band": "Deicide",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Nespithe",
+        "year": 1993
+      }
+    ],
+    "band": "Demilich",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Tortured Existence",
+        "year": 1990
+      },
+      {
+        "album": "Epidemic of Violence",
+        "year": 1992
+      }
+    ],
+    "band": "Demolition Hammer",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Lightning to the Nations",
+        "year": 1980
+      },
+      {
+        "album": "Diamond Head",
+        "year": 2016
+      }
+    ],
+    "band": "Diamond Head",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Holy Diver",
+        "year": 1983
+      },
+      {
+        "album": "The Last in Line",
+        "year": 1984
+      },
+      {
+        "album": "Dream Evil",
+        "year": 1987
+      },
+      {
+        "album": "Strange Highways",
+        "year": 1993
+      },
+      {
+        "album": "Magica",
+        "year": 2000
+      }
+    ],
+    "band": "Dio",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Like an Everflowing Stream",
+        "year": 1991
+      }
+    ],
+    "band": "Dismember",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "The Somberlain",
+        "year": 1993
+      },
+      {
+        "album": "Storm of the Light's Bane",
+        "year": 1995
+      }
+    ],
+    "band": "Dissection",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Images and Words",
+        "year": 1992
+      },
+      {
+        "album": "Awake",
+        "year": 1994
+      }
+    ],
+    "band": "Dream Theater",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Killing on Adrenaline",
+        "year": 1998
+      },
+      {
+        "album": "Destroy the Opposition",
+        "year": 2000
+      },
+      {
+        "album": "Reign Supreme",
+        "year": 2012
+      },
+      {
+        "album": "Wrong One to Fuck With",
+        "year": 2017
+      }
+    ],
+    "band": "Dying Fetus",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "In the Nightside Eclipse",
+        "year": 1994
+      },
+      {
+        "album": "Anthems to the Welkin at Dusk",
+        "year": 1997
+      }
+    ],
+    "band": "Emperor",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Frost",
+        "year": 1994
+      },
+      {
+        "album": "Vikingligr Veldi",
+        "year": 1994
+      },
+      {
+        "album": "Mardraum: Beyond the Within",
+        "year": 2000
+      },
+      {
+        "album": "Isa",
+        "year": 2004
+      },
+      {
+        "album": "In Times",
+        "year": 2015
+      },
+      {
+        "album": "Utgard",
+        "year": 2020
+      }
+    ],
+    "band": "Enslaved",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Left Hand Path",
+        "year": 1990
+      },
+      {
+        "album": "Clandestine",
+        "year": 1991
+      },
+      {
+        "album": "Wolverine Blues",
+        "year": 1993
+      },
+      {
+        "album": "Uprising",
+        "year": 2000
+      },
+      {
+        "album": "Morning Star",
+        "year": 2001
+      },
+      {
+        "album": "Inferno",
+        "year": 2003
+      }
+    ],
+    "band": "Entombed",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Bonded by Blood",
+        "year": 1985
+      },
+      {
+        "album": "Pleasures of the Flesh",
+        "year": 1987
+      },
+      {
+        "album": "Fabulous Disaster",
+        "year": 1989
+      },
+      {
+        "album": "Tempo of the Damned",
+        "year": 2004
+      },
+      {
+        "album": "Blood In, Blood Out",
+        "year": 2014
+      },
+      {
+        "album": "Persona Non Grata",
+        "year": 2021
+      }
+    ],
+    "band": "Exodus",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Take as Needed for Pain",
+        "year": 1993
+      },
+      {
+        "album": "Dopesick",
+        "year": 1996
+      },
+      {
+        "album": "Eyehategod",
+        "year": 2014
+      },
+      {
+        "album": "A History of Nomadic Behavior",
+        "year": 2021
+      }
+    ],
+    "band": "Eyehategod",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "The Real Thing",
+        "year": 1989
+      },
+      {
+        "album": "Angel Dust",
+        "year": 1992
+      }
+    ],
+    "band": "Faith No More",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "The Afterthought Ecstasy",
+        "year": 2010
+      },
+      {
+        "album": "Dasein",
+        "year": 2016
+      }
+    ],
+    "band": "First Fragment",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Streetcleaner",
+        "year": 1989
+      },
+      {
+        "album": "Hymns",
+        "year": 2001
+      },
+      {
+        "album": "A World Lit Only by Fire",
+        "year": 2014
+      },
+      {
+        "album": "Post Self",
+        "year": 2017
+      }
+    ],
+    "band": "Godflesh",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Terra Incognita",
+        "year": 2001
+      },
+      {
+        "album": "The Link",
+        "year": 2003
+      },
+      {
+        "album": "From Mars to Sirius",
+        "year": 2005
+      },
+      {
+        "album": "The Way of All Flesh",
+        "year": 2008
+      },
+      {
+        "album": "L'Enfant Sauvage",
+        "year": 2012
+      },
+      {
+        "album": "Magma",
+        "year": 2016
+      }
+    ],
+    "band": "Gojira",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Pentagram",
+        "year": 1994
+      },
+      {
+        "album": "Antichrist",
+        "year": 1996
+      },
+      {
+        "album": "Under the Sign of Hell",
+        "year": 1997
+      },
+      {
+        "album": "Incipit Satan",
+        "year": 2000
+      },
+      {
+        "album": "Quantos Possunt ad Satanitatem Trahunt",
+        "year": 2009
+      }
+    ],
+    "band": "Gorgoroth",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Considered Dead",
+        "year": 1991
+      },
+      {
+        "album": "The Erosion of Sanity",
+        "year": 1993
+      },
+      {
+        "album": "Obscura",
+        "year": 1998
+      },
+      {
+        "album": "From Wisdom to Hate",
+        "year": 2001
+      },
+      {
+        "album": "Colored Sands",
+        "year": 2013
+      }
+    ],
+    "band": "Gorguts",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Neurotripsicks",
+        "year": 2005
+      },
+      {
+        "album": "Leading Vision",
+        "year": 2006
+      },
+      {
+        "album": "Process of a New Decline",
+        "year": 2009
+      },
+      {
+        "album": "A Perfect Absolution",
+        "year": 2012
+      },
+      {
+        "album": "A Maze of Recycled Creeds",
+        "year": 2015
+      },
+      {
+        "album": "Æthra",
+        "year": 2018
+      }
+    ],
+    "band": "Gorod",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Appetite for Destruction",
+        "year": 1987
+      },
+      {
+        "album": "G N' R Lies",
+        "year": 1988
+      },
+      {
+        "album": "Use Your Illusion I",
+        "year": 1991
+      },
+      {
+        "album": "Use Your Illusion II",
+        "year": 1991
+      }
+    ],
+    "band": "Guns N' Roses",
+    "genre": "Rock"
+  },
+  {
+    "albums": [
+      {
+        "album": "Burn (Havok album)",
+        "year": 2009
+      },
+      {
+        "album": "Time Is Up",
+        "year": 2011
+      },
+      {
+        "album": "Unnatural Selection",
+        "year": 2013
+      },
+      {
+        "album": "Conformicide",
+        "year": 2017
+      },
+      {
+        "album": "V",
+        "year": 2020
+      }
+    ],
+    "band": "Havok",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Keeper of the Seven Keys Part I",
+        "year": 1987
+      }
+    ],
+    "band": "Helloween",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Meantime",
+        "year": 1992
+      }
+    ],
+    "band": "Helmet",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "The Art of Self Defense",
+        "year": 2000
+      },
+      {
+        "album": "Surrounded by Thieves",
+        "year": 2002
+      },
+      {
+        "album": "Blessed Black Wings",
+        "year": 2005
+      },
+      {
+        "album": "Death Is This Communion",
+        "year": 2007
+      },
+      {
+        "album": "Snakes for the Divine",
+        "year": 2010
+      },
+      {
+        "album": "De Vermis Mysteriis",
+        "year": 2012
+      },
+      {
+        "album": "Luminiferous",
+        "year": 2015
+      },
+      {
+        "album": "Electric Messiah",
+        "year": 2018
+      }
+    ],
+    "band": "High on Fire",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "The Vile Conception",
+        "year": 2008
+      },
+      {
+        "album": "Paradogma",
+        "year": 2010
+      },
+      {
+        "album": "Sedition",
+        "year": 2012
+      },
+      {
+        "album": "Regicide",
+        "year": 2014
+      },
+      {
+        "album": "Cast the First Stone",
+        "year": 2017
+      },
+      {
+        "album": "Misotheism",
+        "year": 2019
+      }
+    ],
+    "band": "Hour of Penance",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Humanity's Last Breath",
+        "year": 2013
+      },
+      {
+        "album": "Abyssal",
+        "year": 2019
+      },
+      {
+        "album": "Välde",
+        "year": 2021
+      }
+    ],
+    "band": "Humanity's Last Breath",
+    "genre": "Rock"
+  },
+  {
+    "albums": [
+      {
+        "album": "Dawn of Possession",
+        "year": 1991
+      },
+      {
+        "album": "Here in After",
+        "year": 1996
+      },
+      {
+        "album": "Close to a World Below",
+        "year": 2000
+      },
+      {
+        "album": "Harnessing Ruin",
+        "year": 2005
+      },
+      {
+        "album": "Majesty and Decay",
+        "year": 2010
+      },
+      {
+        "album": "Kingdom of Conspiracy",
+        "year": 2013
+      },
+      {
+        "album": "Atonement",
+        "year": 2017
+      }
+    ],
+    "band": "Immolation",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Pure Holocaust",
+        "year": 1993
+      },
+      {
+        "album": "At the Heart of Winter",
+        "year": 1999
+      },
+      {
+        "album": "Sons of Northern Darkness",
+        "year": 2002
+      },
+      {
+        "album": "Northern Chaos Gods",
+        "year": 2018
+      }
+    ],
+    "band": "Immortal",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Divinity in War",
+        "year": 2007
+      },
+      {
+        "album": "The Path of Apotheosis",
+        "year": 2014
+      },
+      {
+        "album": "The End of an Era | Rebirth",
+        "year": 2019
+      },
+      {
+        "album": "Vile Genesis",
+        "year": 2021
+      }
+    ],
+    "band": "Inferi",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Terrorfront",
+        "year": 2005
+      },
+      {
+        "album": "Redesekration: The Gospel of Hatred and Apotheosis of Genocide",
+        "year": 2007
+      },
+      {
+        "album": "Axiom",
+        "year": 2015
+      }
+    ],
+    "band": "Infernal War",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Iron Maiden",
+        "year": 1980
+      },
+      {
+        "album": "Killers",
+        "year": 1981
+      },
+      {
+        "album": "The Number of the Beast",
+        "year": 1982
+      },
+      {
+        "album": "Piece of Mind",
+        "year": 1983
+      },
+      {
+        "album": "Powerslave",
+        "year": 1984
+      },
+      {
+        "album": "Somewhere in Time",
+        "year": 1986
+      },
+      {
+        "album": "Seventh Son of a Seventh Son",
+        "year": 1988
+      },
+      {
+        "album": "Brave New World",
+        "year": 2000
+      },
+      {
+        "album": "The Book of Souls",
+        "year": 2015
+      },
+      {
+        "album": "Senjutsu",
+        "year": 2021
+      }
+    ],
+    "band": "Iron Maiden",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Oceanic",
+        "year": 2002
+      },
+      {
+        "album": "Panopticon",
+        "year": 2004
+      },
+      {
+        "album": "In the Absence of Truth",
+        "year": 2006
+      },
+      {
+        "album": "Wavering Radiant",
+        "year": 2009
+      }
+    ],
+    "band": "Isis",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Stand Up",
+        "year": 1969
+      },
+      {
+        "album": "Benefit",
+        "year": 1970
+      },
+      {
+        "album": "Aqualung",
+        "year": 1971
+      },
+      {
+        "album": "Thick as a Brick",
+        "year": 1972
+      },
+      {
+        "album": "Minstrel in the Gallery",
+        "year": 1975
+      },
+      {
+        "album": "Songs from the Wood",
+        "year": 1977
+      }
+    ],
+    "band": "Jethro Tull",
+    "genre": "Rock"
+  },
+  {
+    "albums": [
+      {
+        "album": "Sad Wings of Destiny",
+        "year": 1976
+      },
+      {
+        "album": "Stained Class",
+        "year": 1978
+      },
+      {
+        "album": "British Steel",
+        "year": 1980
+      },
+      {
+        "album": "Screaming for Vengeance",
+        "year": 1982
+      },
+      {
+        "album": "Defenders of the Faith",
+        "year": 1984
+      },
+      {
+        "album": "Painkiller",
+        "year": 1990
+      },
+      {
+        "album": "Angel of Retribution",
+        "year": 2005
+      },
+      {
+        "album": "Redeemer of Souls",
+        "year": 2014
+      },
+      {
+        "album": "Firepower",
+        "year": 2018
+      }
+    ],
+    "band": "Judas Priest",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Abigail",
+        "year": 1987
+      }
+    ],
+    "band": "King Diamond",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Korn",
+        "year": 1994
+      },
+      {
+        "album": "Life Is Peachy",
+        "year": 1996
+      },
+      {
+        "album": "Follow the Leader",
+        "year": 1998
+      },
+      {
+        "album": "Issues",
+        "year": 1999
+      },
+      {
+        "album": "Untouchables",
+        "year": 2002
+      },
+      {
+        "album": "The Nothing",
+        "year": 2019
+      }
+    ],
+    "band": "Korn",
+    "genre": "Rock"
+  },
+  {
+    "albums": [
+      {
+        "album": "Pleasure to Kill",
+        "year": 1986
+      },
+      {
+        "album": "Terrible Certainty",
+        "year": 1987
+      },
+      {
+        "album": "Extreme Aggression",
+        "year": 1989
+      },
+      {
+        "album": "Coma of Souls",
+        "year": 1990
+      },
+      {
+        "album": "Phantom Antichrist",
+        "year": 2012
+      },
+      {
+        "album": "Gods of Violence",
+        "year": 2017
+      }
+    ],
+    "band": "Kreator",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Meir",
+        "year": 2013
+      },
+      {
+        "album": "Nattesferd",
+        "year": 2016
+      }
+    ],
+    "band": "Kvelertak",
+    "genre": "Rock"
+  },
+  {
+    "albums": [
+      {
+        "album": "Blues for the Red Sun",
+        "year": 1992
+      },
+      {
+        "album": "Welcome to Sky Valley",
+        "year": 1994
+      }
+    ],
+    "band": "Kyuss",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "New American Gospel",
+        "year": 2000
+      },
+      {
+        "album": "As the Palaces Burn",
+        "year": 2003
+      },
+      {
+        "album": "Ashes of the Wake",
+        "year": 2004
+      },
+      {
+        "album": "Sacrament",
+        "year": 2006
+      },
+      {
+        "album": "Wrath",
+        "year": 2009
+      },
+      {
+        "album": "Resolution",
+        "year": 2012
+      },
+      {
+        "album": "VII: Sturm und Drang",
+        "year": 2015
+      },
+      {
+        "album": "Lamb of God",
+        "year": 2020
+      }
+    ],
+    "band": "Lamb of God",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Led Zeppelin II",
+        "year": 1969
+      },
+      {
+        "album": "Led Zeppelin",
+        "year": 1969
+      },
+      {
+        "album": "Led Zeppelin III",
+        "year": 1970
+      },
+      {
+        "album": "Led Zeppelin IV",
+        "year": 1971
+      },
+      {
+        "album": "Houses of the Holy",
+        "year": 1973
+      },
+      {
+        "album": "Physical Graffiti",
+        "year": 1975
+      },
+      {
+        "album": "Presence",
+        "year": 1976
+      }
+    ],
+    "band": "Led Zeppelin",
+    "genre": "Rock"
+  },
+  {
+    "albums": [
+      {
+        "album": "The Tenth Sub Level of Suicide",
+        "year": 2003
+      },
+      {
+        "album": "Tentacles of Whorror",
+        "year": 2004
+      },
+      {
+        "album": "A Silhouette in Splinters",
+        "year": 2005
+      },
+      {
+        "album": "Scar Sighted",
+        "year": 2015
+      }
+    ],
+    "band": "Leviathan",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "River Runs Red",
+        "year": 1993
+      }
+    ],
+    "band": "Life of Agony",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Vivid",
+        "year": 1988
+      }
+    ],
+    "band": "Living Colour",
+    "genre": "Rock"
+  },
+  {
+    "albums": [
+      {
+        "album": "Elvenefris",
+        "year": 2000
+      }
+    ],
+    "band": "Lykathea Aflame",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Battle Hymns",
+        "year": 1982
+      },
+      {
+        "album": "Into Glory Ride",
+        "year": 1983
+      },
+      {
+        "album": "Hail to England",
+        "year": 1984
+      },
+      {
+        "album": "Sign of the Hammer",
+        "year": 1984
+      }
+    ],
+    "band": "Manowar",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Those of the Unlight",
+        "year": 1993
+      },
+      {
+        "album": "Opus Nocturne",
+        "year": 1994
+      },
+      {
+        "album": "Nightwing",
+        "year": 1998
+      },
+      {
+        "album": "Plague Angel",
+        "year": 2004
+      },
+      {
+        "album": "Wormwood",
+        "year": 2009
+      },
+      {
+        "album": "Serpent Sermon",
+        "year": 2012
+      },
+      {
+        "album": "Frontschwein",
+        "year": 2015
+      },
+      {
+        "album": "Viktoria",
+        "year": 2018
+      }
+    ],
+    "band": "Marduk",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Portrait of an American Family",
+        "year": 1994
+      },
+      {
+        "album": "Antichrist Superstar",
+        "year": 1996
+      },
+      {
+        "album": "Mechanical Animals",
+        "year": 1998
+      },
+      {
+        "album": "Holy Wood (In the Shadow of the Valley of Death)",
+        "year": 2000
+      },
+      {
+        "album": "The Pale Emperor",
+        "year": 2015
+      },
+      {
+        "album": "Heaven Upside Down",
+        "year": 2017
+      },
+      {
+        "album": "We Are Chaos",
+        "year": 2020
+      }
+    ],
+    "band": "Marilyn Manson",
+    "genre": "Rock"
+  },
+  {
+    "albums": [
+      {
+        "album": "Ritual.",
+        "year": 1991
+      },
+      {
+        "album": "Jilemnický okultista",
+        "year": 1992
+      },
+      {
+        "album": "Mantras",
+        "year": 2009
+      },
+      {
+        "album": "Vracejte konve na místo.",
+        "year": 2012
+      }
+    ],
+    "band": "Master's Hammer",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Remission",
+        "year": 2002
+      },
+      {
+        "album": "Leviathan",
+        "year": 2004
+      },
+      {
+        "album": "Blood Mountain",
+        "year": 2006
+      },
+      {
+        "album": "Crack the Skye",
+        "year": 2009
+      },
+      {
+        "album": "The Hunter",
+        "year": 2011
+      },
+      {
+        "album": "Once More 'Round the Sun",
+        "year": 2014
+      },
+      {
+        "album": "Emperor of Sand",
+        "year": 2017
+      }
+    ],
+    "band": "Mastodon",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "De Mysteriis Dom Sathanas",
+        "year": 1994
+      },
+      {
+        "album": "Grand Declaration of War",
+        "year": 2000
+      },
+      {
+        "album": "Chimera",
+        "year": 2004
+      },
+      {
+        "album": "Ordo Ad Chao",
+        "year": 2007
+      },
+      {
+        "album": "Daemon",
+        "year": 2019
+      }
+    ],
+    "band": "Mayhem",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Killing Is My Business... And Business Is Good!",
+        "year": 1985
+      },
+      {
+        "album": "Peace Sells... But Who's Buying?",
+        "year": 1986
+      },
+      {
+        "album": "Rust in Peace",
+        "year": 1990
+      },
+      {
+        "album": "Countdown to Extinction",
+        "year": 1992
+      },
+      {
+        "album": "United Abominations",
+        "year": 2007
+      },
+      {
+        "album": "Dystopia",
+        "year": 2016
+      }
+    ],
+    "band": "Megadeth",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Bullhead",
+        "year": 1991
+      },
+      {
+        "album": "Lysol",
+        "year": 1992
+      },
+      {
+        "album": "Houdini",
+        "year": 1993
+      }
+    ],
+    "band": "Melvins",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Melissa",
+        "year": 1983
+      },
+      {
+        "album": "Don't Break the Oath",
+        "year": 1984
+      },
+      {
+        "album": "In the Shadows",
+        "year": 1993
+      },
+      {
+        "album": "Time",
+        "year": 1994
+      }
+    ],
+    "band": "Mercyful Fate",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Destroy Erase Improve",
+        "year": 1995
+      },
+      {
+        "album": "Chaosphere",
+        "year": 1998
+      },
+      {
+        "album": "Nothing",
+        "year": 2002
+      },
+      {
+        "album": "Catch Thirtythree",
+        "year": 2005
+      },
+      {
+        "album": "obZen",
+        "year": 2008
+      },
+      {
+        "album": "Koloss",
+        "year": 2012
+      },
+      {
+        "album": "The Violent Sleep of Reason",
+        "year": 2016
+      }
+    ],
+    "band": "Meshuggah",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Kill 'Em All",
+        "year": 1983
+      },
+      {
+        "album": "Ride the Lightning",
+        "year": 1984
+      },
+      {
+        "album": "Master of Puppets",
+        "year": 1986
+      },
+      {
+        "album": "...And Justice for All",
+        "year": 1988
+      },
+      {
+        "album": "Metallica",
+        "year": 1991
+      },
+      {
+        "album": "Load",
+        "year": 1996
+      },
+      {
+        "album": "Reload",
+        "year": 1997
+      },
+      {
+        "album": "St. Anger",
+        "year": 2003
+      },
+      {
+        "album": "Death Magnetic",
+        "year": 2008
+      },
+      {
+        "album": "Hardwired... to Self-Destruct",
+        "year": 2016
+      }
+    ],
+    "band": "Metallica",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "With Hearts Toward None",
+        "year": 2012
+      },
+      {
+        "album": "Exercises in Futility",
+        "year": 2015
+      },
+      {
+        "album": "Age of Excuse",
+        "year": 2019
+      }
+    ],
+    "band": "Mgła",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "The Land of Rape and Honey",
+        "year": 1988
+      },
+      {
+        "album": "The Mind Is a Terrible Thing to Taste",
+        "year": 1989
+      },
+      {
+        "album": "ΚΕΦΑΛΗΞΘ",
+        "year": 1992
+      },
+      {
+        "album": "Rio Grande Blood",
+        "year": 2006
+      },
+      {
+        "album": "The Last Sucker",
+        "year": 2007
+      }
+    ],
+    "band": "Ministry",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Altars of Madness",
+        "year": 1989
+      },
+      {
+        "album": "Blessed Are the Sick",
+        "year": 1991
+      },
+      {
+        "album": "Covenant",
+        "year": 1993
+      },
+      {
+        "album": "Domination",
+        "year": 1995
+      },
+      {
+        "album": "Formulas Fatal to the Flesh",
+        "year": 1998
+      },
+      {
+        "album": "Gateways to Anihilation",
+        "year": 2000
+      },
+      {
+        "album": "Heretic",
+        "year": 2003
+      },
+      {
+        "album": "Illud Divinum Insanus",
+        "year": 2011
+      },
+      {
+        "album": "Kingdoms Disdained",
+        "year": 2017
+      }
+    ],
+    "band": "Morbid Angel",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Motörhead",
+        "year": 1977
+      },
+      {
+        "album": "Bomber",
+        "year": 1979
+      },
+      {
+        "album": "Overkill",
+        "year": 1979
+      },
+      {
+        "album": "Ace of Spades",
+        "year": 1980
+      },
+      {
+        "album": "Iron Fist",
+        "year": 1982
+      },
+      {
+        "album": "Orgasmatron",
+        "year": 1986
+      },
+      {
+        "album": "Bastards",
+        "year": 1993
+      }
+    ],
+    "band": "Motörhead",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Too Fast for Love",
+        "year": 1981
+      },
+      {
+        "album": "Shout at the Devil",
+        "year": 1983
+      },
+      {
+        "album": "Dr. Feelgood",
+        "year": 1989
+      }
+    ],
+    "band": "Mötley Crüe",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Scum",
+        "year": 1987
+      },
+      {
+        "album": "From Enslavement to Obliteration",
+        "year": 1988
+      },
+      {
+        "album": "Harmony Corruption",
+        "year": 1990
+      },
+      {
+        "album": "Utopia Banished",
+        "year": 1992
+      },
+      {
+        "album": "Fear, Emptiness, Despair",
+        "year": 1994
+      },
+      {
+        "album": "The Code Is Red... Long Live the Code",
+        "year": 2005
+      },
+      {
+        "album": "Smear Campaign",
+        "year": 2006
+      },
+      {
+        "album": "Time Waits for No Slave",
+        "year": 2009
+      },
+      {
+        "album": "Utilitarian",
+        "year": 2012
+      },
+      {
+        "album": "Apex Predator - Easy Meat",
+        "year": 2015
+      },
+      {
+        "album": "Throes of Joy in the Jaws of Defeatism",
+        "year": 2020
+      }
+    ],
+    "band": "Napalm Death",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Onset of Putrefaction",
+        "year": 1999
+      },
+      {
+        "album": "Epitaph",
+        "year": 2004
+      }
+    ],
+    "band": "Necrophagist",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Zîrnindu-să",
+        "year": 1996
+      },
+      {
+        "album": "Măiastru sfetnic",
+        "year": 2000
+      },
+      {
+        "album": "'n crugu bradului",
+        "year": 2002
+      },
+      {
+        "album": "Om",
+        "year": 2006
+      },
+      {
+        "album": "Vîrstele pămîntului",
+        "year": 2010
+      }
+    ],
+    "band": "Negură Bunget",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Imagery",
+        "year": 1997
+      },
+      {
+        "album": "A Passage into Forlorn",
+        "year": 2001
+      },
+      {
+        "album": "Truth Beyond...",
+        "year": 2002
+      },
+      {
+        "album": "Trilateral Progression",
+        "year": 2005
+      },
+      {
+        "album": "The Thin Line Between",
+        "year": 2008
+      },
+      {
+        "album": "Asylon",
+        "year": 2011
+      }
+    ],
+    "band": "Neuraxis",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Through Silver in Blood",
+        "year": 1996
+      },
+      {
+        "album": "Times of Grace",
+        "year": 1999
+      },
+      {
+        "album": "Given to the Rising",
+        "year": 2007
+      },
+      {
+        "album": "Honor Found in Decay",
+        "year": 2012
+      },
+      {
+        "album": "Fires Within Fires",
+        "year": 2016
+      }
+    ],
+    "band": "Neurosis",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Amongst the Catacombs of Nephren-Ka",
+        "year": 1998
+      },
+      {
+        "album": "Black Seeds of Vengeance",
+        "year": 2000
+      },
+      {
+        "album": "In Their Darkened Shrines",
+        "year": 2002
+      },
+      {
+        "album": "Annihilation of the Wicked",
+        "year": 2005
+      },
+      {
+        "album": "Ithyphallic",
+        "year": 2007
+      },
+      {
+        "album": "Those Whom the Gods Detest",
+        "year": 2009
+      },
+      {
+        "album": "At the Gate of Sethu",
+        "year": 2012
+      },
+      {
+        "album": "What Should Not Be Unearthed",
+        "year": 2015
+      },
+      {
+        "album": "Vile Nilotic Rites",
+        "year": 2019
+      }
+    ],
+    "band": "Nile",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Nevermind",
+        "year": 1991
+      },
+      {
+        "album": "In Utero",
+        "year": 1993
+      }
+    ],
+    "band": "Nirvana",
+    "genre": "Rock"
+  },
+  {
+    "albums": [
+      {
+        "album": "Handle with Care",
+        "year": 1989
+      }
+    ],
+    "band": "Nuclear Assault",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Slowly We Rot",
+        "year": 1989
+      },
+      {
+        "album": "Cause of Death",
+        "year": 1990
+      },
+      {
+        "album": "The End Complete",
+        "year": 1992
+      },
+      {
+        "album": "World Demise",
+        "year": 1994
+      },
+      {
+        "album": "Back from the Dead",
+        "year": 1997
+      },
+      {
+        "album": "Frozen in Time",
+        "year": 2005
+      },
+      {
+        "album": "Xecutioner's Return",
+        "year": 2007
+      },
+      {
+        "album": "Darkest Day",
+        "year": 2009
+      },
+      {
+        "album": "Inked in Blood",
+        "year": 2014
+      },
+      {
+        "album": "Obituary",
+        "year": 2017
+      }
+    ],
+    "band": "Obituary",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Retribution",
+        "year": 2006
+      },
+      {
+        "album": "Cosmogenesis",
+        "year": 2009
+      },
+      {
+        "album": "Omnivium",
+        "year": 2011
+      },
+      {
+        "album": "Akróasis",
+        "year": 2016
+      },
+      {
+        "album": "Diluvium",
+        "year": 2018
+      },
+      {
+        "album": "A Valediction",
+        "year": 2021
+      }
+    ],
+    "band": "Obscura",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Morningrise",
+        "year": 1996
+      },
+      {
+        "album": "My Arms, Your Hearse",
+        "year": 1998
+      },
+      {
+        "album": "Still Life",
+        "year": 1999
+      },
+      {
+        "album": "Blackwater Park",
+        "year": 2001
+      },
+      {
+        "album": "Deliverance",
+        "year": 2002
+      },
+      {
+        "album": "Damnation",
+        "year": 2003
+      },
+      {
+        "album": "Ghost Reveries",
+        "year": 2005
+      },
+      {
+        "album": "Watershed",
+        "year": 2008
+      }
+    ],
+    "band": "Opeth",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Echoes of Decimation",
+        "year": 2005
+      },
+      {
+        "album": "Antithesis",
+        "year": 2008
+      }
+    ],
+    "band": "Origin",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Taking Over",
+        "year": 1987
+      },
+      {
+        "album": "The Years of Decay",
+        "year": 1989
+      },
+      {
+        "album": "Horrorscope",
+        "year": 1991
+      },
+      {
+        "album": "Ironbound",
+        "year": 2010
+      },
+      {
+        "album": "The Electric Age",
+        "year": 2012
+      },
+      {
+        "album": "White Devil Armory",
+        "year": 2014
+      },
+      {
+        "album": "The Grinding Wheel",
+        "year": 2017
+      },
+      {
+        "album": "The Wings of War",
+        "year": 2019
+      }
+    ],
+    "band": "Overkill",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Blizzard of Ozz",
+        "year": 1980
+      },
+      {
+        "album": "Diary of a Madman",
+        "year": 1981
+      },
+      {
+        "album": "Bark at the Moon",
+        "year": 1983
+      },
+      {
+        "album": "No More Tears",
+        "year": 1991
+      }
+    ],
+    "band": "Ozzy Osbourne",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Cowboys from Hell",
+        "year": 1990
+      },
+      {
+        "album": "Vulgar Display of Power",
+        "year": 1992
+      },
+      {
+        "album": "Far Beyond Driven",
+        "year": 1994
+      },
+      {
+        "album": "The Great Southern Trendkill",
+        "year": 1996
+      },
+      {
+        "album": "Reinventing the Steel (2020 Terry Date Mix)",
+        "year": 2000
+      },
+      {
+        "album": "Reinventing the Steel (Original 2000 Mix)",
+        "year": 2000
+      }
+    ],
+    "band": "Pantera",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Deep Blue",
+        "year": 2010
+      },
+      {
+        "album": "Atlas",
+        "year": 2012
+      },
+      {
+        "album": "Ire",
+        "year": 2015
+      },
+      {
+        "album": "Reverence",
+        "year": 2018
+      }
+    ],
+    "band": "Parkway Drive",
+    "genre": "Rock"
+  },
+  {
+    "albums": [
+      {
+        "album": "Malleus Maleficarum",
+        "year": 1988
+      },
+      {
+        "album": "Consuming Impulse",
+        "year": 1989
+      },
+      {
+        "album": "Testimony of the Ancients",
+        "year": 1991
+      },
+      {
+        "album": "Spheres",
+        "year": 1993
+      },
+      {
+        "album": "Exitivm",
+        "year": 2021
+      }
+    ],
+    "band": "Pestilence",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Prowler in the Yard",
+        "year": 2001
+      },
+      {
+        "album": "Terrifyer",
+        "year": 2004
+      },
+      {
+        "album": "Phantom Limb",
+        "year": 2007
+      },
+      {
+        "album": "Book Burner",
+        "year": 2012
+      }
+    ],
+    "band": "Pig Destroyer",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Ion",
+        "year": 2018
+      }
+    ],
+    "band": "Portal",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Seven Churches",
+        "year": 1985
+      },
+      {
+        "album": "Beyond the Gates",
+        "year": 1986
+      },
+      {
+        "album": "Revelations of Oblivion",
+        "year": 2019
+      }
+    ],
+    "band": "Possessed",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "The Scepter of the Ancients",
+        "year": 2003
+      },
+      {
+        "album": "The Inherited Repression",
+        "year": 2012
+      },
+      {
+        "album": "Psycroptic",
+        "year": 2015
+      },
+      {
+        "album": "As the Kingdom Drowns",
+        "year": 2018
+      }
+    ],
+    "band": "Psycroptic",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Operation: Mindcrime",
+        "year": 1988
+      }
+    ],
+    "band": "Queensrÿche",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Rage Against the Machine",
+        "year": 1992
+      }
+    ],
+    "band": "Rage Against the Machine",
+    "genre": "Rock"
+  },
+  {
+    "albums": [
+      {
+        "album": "Rising",
+        "year": 1976
+      }
+    ],
+    "band": "Rainbow",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Evil Invaders",
+        "year": 1985
+      },
+      {
+        "album": "Violent Restitution",
+        "year": 1988
+      },
+      {
+        "album": "Shotgun Justice",
+        "year": 1990
+      },
+      {
+        "album": "Open Hostility",
+        "year": 1991
+      }
+    ],
+    "band": "Razor",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "The Human Burden",
+        "year": 2012
+      },
+      {
+        "album": "Do Not Deviate",
+        "year": 2017
+      }
+    ],
+    "band": "Replacire",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Existence Is Futile",
+        "year": 2009
+      },
+      {
+        "album": "Chaos of Forms",
+        "year": 2011
+      },
+      {
+        "album": "Deathless",
+        "year": 2014
+      },
+      {
+        "album": "Great Is Our Sin",
+        "year": 2016
+      },
+      {
+        "album": "The Outer Ones",
+        "year": 2018
+      }
+    ],
+    "band": "Revocation",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Triarchy of the Lost Lovers",
+        "year": 1996
+      },
+      {
+        "album": "A Dead Poem",
+        "year": 1997
+      },
+      {
+        "album": "Genesis",
+        "year": 2002
+      },
+      {
+        "album": "Theogonia",
+        "year": 2007
+      }
+    ],
+    "band": "Rotting Christ",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "History of a Time to Come",
+        "year": 1988
+      },
+      {
+        "album": "Dreamweaver",
+        "year": 1989
+      }
+    ],
+    "band": "Sabbat",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "I.N.R.I.",
+        "year": 1987
+      },
+      {
+        "album": "The Laws of Scourge",
+        "year": 1991
+      }
+    ],
+    "band": "Sarcófago",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Dark Medieval Times",
+        "year": 1994
+      },
+      {
+        "album": "The Shadowthrone",
+        "year": 1994
+      },
+      {
+        "album": "Nemesis Divina",
+        "year": 1996
+      },
+      {
+        "album": "Deep Calleth upon Deep",
+        "year": 2017
+      }
+    ],
+    "band": "Satyricon",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "In Trance",
+        "year": 1975
+      },
+      {
+        "album": "Lovedrive",
+        "year": 1979
+      },
+      {
+        "album": "Blackout",
+        "year": 1982
+      },
+      {
+        "album": "Love at First Sting",
+        "year": 1984
+      },
+      {
+        "album": "Crazy World",
+        "year": 1990
+      }
+    ],
+    "band": "Scorpions",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Schizophrenia",
+        "year": 1987
+      },
+      {
+        "album": "Beneath the Remains",
+        "year": 1989
+      },
+      {
+        "album": "Arise",
+        "year": 1991
+      },
+      {
+        "album": "Chaos A.D.",
+        "year": 1993
+      },
+      {
+        "album": "Roots",
+        "year": 1996
+      },
+      {
+        "album": "Against",
+        "year": 1998
+      },
+      {
+        "album": "Nation",
+        "year": 2001
+      },
+      {
+        "album": "Roorback",
+        "year": 2003
+      },
+      {
+        "album": "Dante XXI",
+        "year": 2006
+      },
+      {
+        "album": "A-Lex",
+        "year": 2009
+      },
+      {
+        "album": "Kairos",
+        "year": 2011
+      },
+      {
+        "album": "The Mediator Between Head and Hands Must Be the Heart",
+        "year": 2013
+      },
+      {
+        "album": "Machine Messiah",
+        "year": 2017
+      },
+      {
+        "album": "Quadra",
+        "year": 2020
+      }
+    ],
+    "band": "Sepultura",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Feasting on Blood",
+        "year": 2000
+      },
+      {
+        "album": "Misanthrophic Carnage",
+        "year": 2002
+      },
+      {
+        "album": "Fall of the Despised",
+        "year": 2005
+      },
+      {
+        "album": "Sworn Vengeance",
+        "year": 2007
+      },
+      {
+        "album": "Slaughtered",
+        "year": 2010
+      }
+    ],
+    "band": "Severe Torture",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "V - Halmstad (Niklas angående Niklas)",
+        "year": 2007
+      },
+      {
+        "album": "IX - Everyone, Everything, Everywhere, Ends",
+        "year": 2015
+      }
+    ],
+    "band": "Shining",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Hell Awaits",
+        "year": 1985
+      },
+      {
+        "album": "Reign in Blood",
+        "year": 1986
+      },
+      {
+        "album": "South of Heaven",
+        "year": 1988
+      },
+      {
+        "album": "Seasons in the Abyss",
+        "year": 1990
+      },
+      {
+        "album": "Divine Intervention",
+        "year": 1994
+      },
+      {
+        "album": "God Hates Us All",
+        "year": 2001
+      },
+      {
+        "album": "Christ Illusion",
+        "year": 2006
+      },
+      {
+        "album": "World Painted Blood",
+        "year": 2009
+      },
+      {
+        "album": "Repentless",
+        "year": 2015
+      }
+    ],
+    "band": "Slayer",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Sleep's Holy Mountain",
+        "year": 1992
+      },
+      {
+        "album": "Dopesmoker",
+        "year": 2012
+      },
+      {
+        "album": "The Sciences",
+        "year": 2018
+      }
+    ],
+    "band": "Sleep",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Slipknot",
+        "year": 1999
+      },
+      {
+        "album": "Iowa",
+        "year": 2001
+      },
+      {
+        "album": "Vol. 3: (The Subliminal Verses)",
+        "year": 2004
+      },
+      {
+        "album": "All Hope Is Gone",
+        "year": 2008
+      },
+      {
+        "album": ".5: The Gray Chapter",
+        "year": 2014
+      },
+      {
+        "album": "We Are Not Your Kind",
+        "year": 2019
+      }
+    ],
+    "band": "Slipknot",
+    "genre": "Rock"
+  },
+  {
+    "albums": [
+      {
+        "album": "Persecution Mania",
+        "year": 1987
+      },
+      {
+        "album": "Agent Orange",
+        "year": 1989
+      },
+      {
+        "album": "Tapping the Vein",
+        "year": 1992
+      },
+      {
+        "album": "M-16",
+        "year": 2001
+      },
+      {
+        "album": "Decision Day",
+        "year": 2016
+      },
+      {
+        "album": "Genesis XIX",
+        "year": 2020
+      }
+    ],
+    "band": "Sodom",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Louder Than Love",
+        "year": 1989
+      },
+      {
+        "album": "Badmotorfinger",
+        "year": 1991
+      },
+      {
+        "album": "Superunknown",
+        "year": 1994
+      }
+    ],
+    "band": "Soundgarden",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Cabinet",
+        "year": 2003
+      },
+      {
+        "album": "Noctambulant",
+        "year": 2006
+      },
+      {
+        "album": "Incurso",
+        "year": 2012
+      }
+    ],
+    "band": "Spawn of Possession",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "City",
+        "year": 1997
+      },
+      {
+        "album": "Strapping Young Lad",
+        "year": 2003
+      },
+      {
+        "album": "Alien",
+        "year": 2005
+      },
+      {
+        "album": "The New Black",
+        "year": 2006
+      }
+    ],
+    "band": "Strapping Young Lad",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Effigy of the Forgotten",
+        "year": 1991
+      },
+      {
+        "album": "Pierced from Within",
+        "year": 1995
+      },
+      {
+        "album": "Souls to Deny",
+        "year": 2004
+      },
+      {
+        "album": "Pinnacle of Bedlam",
+        "year": 2013
+      }
+    ],
+    "band": "Suffocation",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Dunes",
+        "year": 2017
+      }
+    ],
+    "band": "Sutrah",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "System of a Down",
+        "year": 1998
+      },
+      {
+        "album": "Toxicity",
+        "year": 2001
+      },
+      {
+        "album": "Steal This Album!",
+        "year": 2002
+      },
+      {
+        "album": "Hypnotize",
+        "year": 2005
+      },
+      {
+        "album": "Mezmerize",
+        "year": 2005
+      }
+    ],
+    "band": "System of a Down",
+    "genre": "Rock"
+  },
+  {
+    "albums": [
+      {
+        "album": "World Downfall",
+        "year": 1989
+      }
+    ],
+    "band": "Terrorizer",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "The Legacy",
+        "year": 1987
+      },
+      {
+        "album": "The New Order",
+        "year": 1988
+      },
+      {
+        "album": "Practice What You Preach",
+        "year": 1989
+      },
+      {
+        "album": "Souls of Black",
+        "year": 1990
+      },
+      {
+        "album": "The Ritual",
+        "year": 1992
+      },
+      {
+        "album": "The Gathering",
+        "year": 1999
+      },
+      {
+        "album": "The Formation of Damnation",
+        "year": 2008
+      },
+      {
+        "album": "Brotherhood of the Snake",
+        "year": 2016
+      },
+      {
+        "album": "Titans of Creation",
+        "year": 2020
+      }
+    ],
+    "band": "Testament",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Nocturnal",
+        "year": 2007
+      },
+      {
+        "album": "Deflorate",
+        "year": 2009
+      },
+      {
+        "album": "Ritual (The Black Dahlia Murder album)",
+        "year": 2011
+      },
+      {
+        "album": "Everblack",
+        "year": 2013
+      },
+      {
+        "album": "Abysmal",
+        "year": 2015
+      },
+      {
+        "album": "Nightbringers",
+        "year": 2017
+      },
+      {
+        "album": "Verminous",
+        "year": 2020
+      }
+    ],
+    "band": "The Black Dahlia Murder",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Calculating Infinity",
+        "year": 1999
+      },
+      {
+        "album": "Miss Machine",
+        "year": 2004
+      },
+      {
+        "album": "Ire Works",
+        "year": 2007
+      },
+      {
+        "album": "Option Paralysis",
+        "year": 2010
+      },
+      {
+        "album": "One of Us Is the Killer",
+        "year": 2013
+      },
+      {
+        "album": "Dissociation",
+        "year": 2016
+      }
+    ],
+    "band": "The Dillinger Escape Plan",
+    "genre": "Rock"
+  },
+  {
+    "albums": [
+      {
+        "album": "Akeldama",
+        "year": 2006
+      },
+      {
+        "album": "Planetary Duality",
+        "year": 2008
+      },
+      {
+        "album": "Autotheism",
+        "year": 2012
+      },
+      {
+        "album": "In Becoming a Ghost",
+        "year": 2017
+      }
+    ],
+    "band": "The Faceless",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Unlock the Shrine",
+        "year": 2004
+      },
+      {
+        "album": "Rain upon the Impure",
+        "year": 2006
+      },
+      {
+        "album": "Foulest Semen of a Sheltered Elite",
+        "year": 2009
+      },
+      {
+        "album": "Blood Vaults - The Blazing Gospel of Heinrich Kramer",
+        "year": 2013
+      },
+      {
+        "album": "Exuvia",
+        "year": 2017
+      }
+    ],
+    "band": "The Ruins of Beverast",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Third Eye Function",
+        "year": 1997
+      },
+      {
+        "album": "The Armageddon Theories",
+        "year": 1999
+      },
+      {
+        "album": "Colonizing the Sun",
+        "year": 2002
+      }
+    ],
+    "band": "Theory in Practice",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Stream from the Heavens",
+        "year": 1994
+      }
+    ],
+    "band": "Thergothon",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Undertow",
+        "year": 1993
+      },
+      {
+        "album": "Ænima",
+        "year": 1996
+      },
+      {
+        "album": "Lateralus",
+        "year": 2001
+      },
+      {
+        "album": "10,000 Days",
+        "year": 2006
+      },
+      {
+        "album": "Fear Inoculum",
+        "year": 2019
+      }
+    ],
+    "band": "Tool",
+    "genre": "Rock"
+  },
+  {
+    "albums": [
+      {
+        "album": "Under the Blade",
+        "year": 1982
+      },
+      {
+        "album": "Stay Hungry",
+        "year": 1984
+      }
+    ],
+    "band": "Twisted Sister",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Bloody Kisses",
+        "year": 1993
+      },
+      {
+        "album": "October Rust",
+        "year": 1996
+      },
+      {
+        "album": "World Coming Down",
+        "year": 1999
+      }
+    ],
+    "band": "Type O Negative",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Everything Is Fire",
+        "year": 2009
+      },
+      {
+        "album": "The Destroyers of All",
+        "year": 2011
+      },
+      {
+        "album": "Vermis",
+        "year": 2013
+      },
+      {
+        "album": "Shrines of Paralysis",
+        "year": 2016
+      },
+      {
+        "album": "Stare into Death and Be Still",
+        "year": 2020
+      }
+    ],
+    "band": "Ulcerate",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Bergtatt - Et Eeventyr i 5 Capitler",
+        "year": 1995
+      },
+      {
+        "album": "Kveldssanger",
+        "year": 1996
+      },
+      {
+        "album": "Nattens Madrigal - Aatte Hymne til Ulven i Manden",
+        "year": 1997
+      }
+    ],
+    "band": "Ulver",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Unhuman",
+        "year": 2013
+      }
+    ],
+    "band": "Unhuman",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Litany",
+        "year": 2000
+      },
+      {
+        "album": "Impressions in Blood",
+        "year": 2006
+      },
+      {
+        "album": "Welcome to the Morbid Reich",
+        "year": 2011
+      },
+      {
+        "album": "Tibi Et Igni",
+        "year": 2014
+      },
+      {
+        "album": "The Empire",
+        "year": 2016
+      },
+      {
+        "album": "Solitude in Madness",
+        "year": 2020
+      }
+    ],
+    "band": "Vader",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "The Prodigal Empire",
+        "year": 2011
+      },
+      {
+        "album": "II",
+        "year": 2016
+      },
+      {
+        "album": "Accursed",
+        "year": 2019
+      }
+    ],
+    "band": "Vale of Pnath",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Van Halen",
+        "year": 1978
+      },
+      {
+        "album": "Women and Children First",
+        "year": 1980
+      },
+      {
+        "album": "Fair Warning",
+        "year": 1981
+      },
+      {
+        "album": "1984",
+        "year": 1984
+      },
+      {
+        "album": "5150",
+        "year": 1986
+      }
+    ],
+    "band": "Van Halen",
+    "genre": "Rock"
+  },
+  {
+    "albums": [
+      {
+        "album": "Black Future",
+        "year": 2009
+      },
+      {
+        "album": "Outer Isolation",
+        "year": 2011
+      },
+      {
+        "album": "Terminal Redux",
+        "year": 2016
+      }
+    ],
+    "band": "Vektor",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Welcome to Hell",
+        "year": 1981
+      },
+      {
+        "album": "Black Metal",
+        "year": 1982
+      },
+      {
+        "album": "At War with Satan",
+        "year": 1984
+      },
+      {
+        "album": "From the Very Depths",
+        "year": 2015
+      }
+    ],
+    "band": "Venom",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Killing Technology",
+        "year": 1987
+      },
+      {
+        "album": "Dimension Hatröss",
+        "year": 1988
+      },
+      {
+        "album": "Nothingface",
+        "year": 1989
+      },
+      {
+        "album": "The Outer Limits",
+        "year": 1993
+      },
+      {
+        "album": "Katorz",
+        "year": 2006
+      },
+      {
+        "album": "Target Earth",
+        "year": 2013
+      },
+      {
+        "album": "The Wake",
+        "year": 2018
+      }
+    ],
+    "band": "Voivod",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Rabid Death's Curse",
+        "year": 2000
+      },
+      {
+        "album": "Casus Luciferi",
+        "year": 2003
+      },
+      {
+        "album": "Sworn to the Dark",
+        "year": 2007
+      },
+      {
+        "album": "Lawless Darkness",
+        "year": 2010
+      }
+    ],
+    "band": "Watain",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "La Sexorcisto: Devil Music Volume One",
+        "year": 1992
+      }
+    ],
+    "band": "White Zombie",
+    "genre": "Metal"
+  },
+  {
+    "albums": [
+      {
+        "album": "Planisphærium",
+        "year": 2003
+      },
+      {
+        "album": "Exodromos",
+        "year": 2013
+      },
+      {
+        "album": "Krighsu",
+        "year": 2016
+      }
+    ],
+    "band": "Wormed",
+    "genre": "Metal"
+  }
+]
