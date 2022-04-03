@@ -162,7 +162,7 @@ class CSVData(object):
                             if int(percent_owned) == 100:
                                 continue
 
-                            # finally search for new albums
+                            # finally, search for new albums
                             for metallum_album in metallum_albums:
                                 metallum_album_title = metallum_album.title
                                 metallum_release_date = metallum_album.date.date()
