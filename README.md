@@ -28,7 +28,7 @@ Currently, there is no documentation except for the comments scattered in the co
                             Interval in years (for example 2010-2016 or 2010-2010) within (and including) it will be
                             searched for new releases
       -s SKIP_BANDS, --skip_bands SKIP_BANDS
-                            A file (in JSON format) with the bands to be skipped from the check
+                            A file (in JSON format) with the bands and/or albums to be skipped
       -d DISAMBIGUATIONS, --disambiguations DISAMBIGUATIONS
                             A file (in JSON format) with disambiguation information in case of bands with the same name
       -k, --skip_splitup_bands
