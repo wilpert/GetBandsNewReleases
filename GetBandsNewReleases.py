@@ -256,7 +256,7 @@ parser.add_argument(
 parser.add_argument(
     '-s',
     '--skip_bands',
-    help='A file (in JSON format) with the bands to be skipped from the check',
+    help='A file (in JSON format) with the bands and/or albums to be skipped',
     required=False,
     default=None,
     type=str)
