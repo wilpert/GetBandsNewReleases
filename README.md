@@ -31,9 +31,6 @@ Currently, there is no documentation except for the comments scattered in the co
                             A file (in JSON format) with the bands and/or albums to be skipped
       -d DISAMBIGUATIONS, --disambiguations DISAMBIGUATIONS
                             A file (in JSON format) with disambiguation information in case of bands with the same name
-      -k, --skip_splitup_bands
-                            Skip bands, whose status is listed as "Split-up"
-
 
 Only the first two arguments are required: the JSON file with the bands and albums in your collection and the release interval. You will find examples for all the input files (album list, skip-bands list and disambiguations list) in the data/ directory.
 
