@@ -97,11 +97,10 @@ class CSVData(object):
                              format(args_release_interval))
             sys.exit(1)
 
-    def find_new_releases(self, args_release_interval, args_skip_splitup_bands):
+    def find_new_releases(self, args_release_interval):
         """
         for each band in the collection list the albums not owned that have been released after a given year
         :param args_release_interval: interval in years within (and including) it will be searched for new releases
-        :param args_skip_splitup_bands: if True, bands, whose status is listed as "Split-up" will be skipped
         :return: nothing, this function prints only log messages and writes a json file with the new releases
         """
         new_releases = []
@@ -153,14 +152,9 @@ class CSVData(object):
                             # trace down which bands have split-up; this information could be used to add these bands
                             # to the list of bands to be skipped and so decrease the searching time. We do not want
                             # to skip them by default because it could be useful to look for other band's albums than
-                            # the latest ones, and who knows: perhaps the band reunite again under the same name; if
-                            # you want to skip them, use the --skip_splitup_bands switch
+                            # the latest ones, and who knows: perhaps the band reunite again under the same nameh
                             if metallum_band_page.status == "Split-up":
                                 sys.stdout.write(" \x1b[{0}m[SPLIT-UP]\x1b[0m".format(CSVData.yellow_ansi_code))
-                                if args_skip_splitup_bands:
-                                    sys.stdout.write(
-                                        " \x1b[{0}m[BAND_SKIPPED]\x1b[0m\n".format(CSVData.yellow_ansi_code))
-                                    continue
 
                             # get the list of all the albums in Encyclopaedia Metallum for the given band
                             metallum_albums = metallum_band_page.albums.search(type=metallum.AlbumTypes.FULL_LENGTH)
@@ -269,13 +263,6 @@ parser.add_argument(
     default=None,
     type=str)
 
-parser.add_argument(
-    '-k',
-    '--skip_splitup_bands',
-    help='Skip bands, whose status is listed as "Split-up"',
-    action='store_true',
-    default=False)
-
 args = parser.parse_args()
 CSVData(args.albumlist, args.disambiguations, args.skip_bands).find_new_releases(
-    args.release_interval, args.skip_splitup_bands)
+    args.release_interval)
