@@ -19,7 +19,7 @@ class CSVData(object):
 
         self.bands_data = {}
         self.disambiguations = {}
-        self.skip_bands = []
+        self.skip_bands = {}
 
         # load the list of disambiguations
         if disambiguations_fname:
@@ -30,7 +30,10 @@ class CSVData(object):
         # load the list with the bands to be skipped from the search
         if skip_bands_fname:
             with codecs.open(skip_bands_fname, 'r', encoding='utf-8') as skip_bands_f:
-                self.skip_bands = json.load(skip_bands_f)
+                for band_dct in json.load(skip_bands_f):
+                    band_name = band_dct["band"]
+                    band_albums = band_dct["albums"]
+                    self.skip_bands[band_name] = band_albums
 
         # load the list of bands with albums owned
         with codecs.open(albumlist_fname, 'r', encoding='utf-8') as albumlist_f:
@@ -38,9 +41,8 @@ class CSVData(object):
                 band_name = band_dct["band"]
                 genre = band_dct["genre"]
                 # filtering condition: include a band only if
-                # - the band is not included in the list of bands to be skipped
                 # - the genre of the band ist "Metal" (other bands are excluded from Encyclopaedia Metallum)
-                if band_name not in self.skip_bands and genre == "Metal":
+                if genre == "Metal":
                     self.bands_data[band_name] = band_dct
 
     def get_albums_for_band(self, band):
@@ -113,6 +115,17 @@ class CSVData(object):
             if bands:
 
                 sys.stdout.write("[BAND] {0}".format(band))
+                skip_albums = {}
+
+                if band in self.skip_bands:
+                    # skip band if it is listed in the configuration file skip_albums.json with no album exception
+                    if not self.skip_bands[band]:
+                        sys.stdout.write(" \x1b[{0}m[BAND_SKIPPED]\x1b[0m\n".format(CSVData.yellow_ansi_code))
+                        continue
+                    else:
+                        # some albums should be skippe, to be checked later
+                        for skip_album in self.skip_bands[band]:
+                            skip_albums[skip_album["album"]] = int(skip_album["year"])
 
                 # log the case that there are several bands with the same band's name, but no disambiguation was found;
                 # if so, the band is skipped and a new entry with the correct band's id should be added to the list
@@ -145,7 +158,8 @@ class CSVData(object):
                             if metallum_band_page.status == "Split-up":
                                 sys.stdout.write(" \x1b[{0}m[SPLIT-UP]\x1b[0m".format(CSVData.yellow_ansi_code))
                                 if args_skip_splitup_bands:
-                                    sys.stdout.write(" \x1b[{0}m[SKIPPED]\x1b[0m\n".format(CSVData.yellow_ansi_code))
+                                    sys.stdout.write(
+                                        " \x1b[{0}m[BAND_SKIPPED]\x1b[0m\n".format(CSVData.yellow_ansi_code))
                                     continue
 
                             # get the list of all the albums in Encyclopaedia Metallum for the given band
@@ -177,13 +191,19 @@ class CSVData(object):
                                         (release_lower_bound <= metallum_album.date.year <= release_upper_bound) \
                                         and not (metallum_release_date > datetime.date.today()):
                                     sys.stdout.write("[BAND] {0} \x1b[{1}m[NEW_ALBUM]\x1b[0m {2} ({3}) "
-                                                     "[SCORE] {4}% (of {5} reviews)\n".
+                                                     "[SCORE] {4}% (of {5} reviews)".
                                                      format(band,
                                                             CSVData.green_ansi_code,
                                                             metallum_album_title,
                                                             metallum_release_date,
                                                             metallum_album_score,
                                                             metallum_album_review_count))
+                                    if metallum_album_title in skip_albums \
+                                            and metallum_album.date.year == skip_albums[metallum_album_title]:
+                                        sys.stdout.write(
+                                            " \x1b[{0}m[ALBUM_SKIPPED]\x1b[0m\n".format(CSVData.yellow_ansi_code))
+                                    else:
+                                        sys.stdout.write("\n")
                                     new_releases.append([
                                         band,
                                         metallum_album_title,
