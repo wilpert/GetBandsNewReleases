@@ -816,6 +816,10 @@
       {
         "album": "Hallucinogen",
         "year": 2019
+      },
+      {
+        "album": "Disharmonium - Undreamable Abysses",
+        "year": 2022
       }
     ],
     "band": "Blut aus Nord",
@@ -1370,6 +1374,10 @@
       {
         "album": "Anticult",
         "year": 2017
+      },
+      {
+        "album": "Cancer Culture",
+        "year": 2022
       }
     ],
     "band": "Decapitated",
@@ -1404,7 +1412,7 @@
         "year": 1972
       },
       {
-        "album": "Made In Japan (2014 Remaster)",
+        "album": "Made in Japan (2014 Remaster)",
         "year": 1972
       },
       {
@@ -2340,12 +2348,24 @@
         "year": 1990
       },
       {
+        "album": "Violent Revolution",
+        "year": 2001
+      },
+      {
+        "album": "Enemy of God",
+        "year": 2005
+      },
+      {
         "album": "Phantom Antichrist",
         "year": 2012
       },
       {
         "album": "Gods of Violence",
         "year": 2017
+      },
+      {
+        "album": "Hate über alles",
+        "year": 2022
       }
     ],
     "band": "Kreator",
@@ -3306,6 +3326,10 @@
       {
         "album": "Antithesis",
         "year": 2008
+      },
+      {
+        "album": "Chaosmos",
+        "year": 2022
       }
     ],
     "band": "Origin",
@@ -4522,6 +4546,10 @@
       {
         "album": "Lawless Darkness",
         "year": 2010
+      },
+      {
+        "album": "The Agony & Ecstasy of Watain",
+        "year": 2022
       }
     ],
     "band": "Watain",
