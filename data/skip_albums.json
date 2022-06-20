@@ -1,16 +1,7 @@
 [
   {
     "band": "Absu",
-    "albums": [
-      {
-        "album": "Absu",
-        "year": "2009"
-      },
-      {
-        "album": "Abzu",
-        "year": "2011"
-      }
-    ]
+    "albums": []
   },
   {
     "band": "Accept",
@@ -171,6 +162,15 @@
   {
     "band": "Sarcófago",
     "albums": []
+  },
+  {
+    "band": "Satyricon",
+    "albums": [
+      {
+        "album": "Satyricon & Munch",
+        "year": "2022"
+      }
+    ]
   },
   {
     "band": "Scorpions",
