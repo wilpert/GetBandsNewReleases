@@ -122,7 +122,7 @@ class CSVData(object):
                         sys.stdout.write(" \x1b[{0}m[BAND_SKIPPED]\x1b[0m\n".format(CSVData.yellow_ansi_code))
                         continue
                     else:
-                        # some albums should be skippe, to be checked later
+                        # some albums should be skipped, to be checked later
                         for skip_album in self.skip_bands[band]:
                             skip_albums[skip_album["album"]] = int(skip_album["year"])
 
@@ -198,13 +198,13 @@ class CSVData(object):
                                             " \x1b[{0}m[ALBUM_SKIPPED]\x1b[0m\n".format(CSVData.yellow_ansi_code))
                                     else:
                                         sys.stdout.write("\n")
-                                    new_releases.append([
-                                        band,
-                                        metallum_album_title,
-                                        str(metallum_release_date),
-                                        str(metallum_album_score),
-                                        str(metallum_album_review_count)
-                                    ])
+                                        new_releases.append([
+                                            band,
+                                            metallum_album_title,
+                                            str(metallum_release_date),
+                                            str(metallum_album_score),
+                                            str(metallum_album_review_count)
+                                        ])
 
                     # rare condition:
                     # - there are several bands with the same name
