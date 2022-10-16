@@ -16,8 +16,26 @@
     "albums": []
   },
   {
+    "band": "Amon Amarth",
+    "albums": [
+      {
+        "album": "The Great Heathen Army",
+        "year": "2022"
+      }
+    ]
+  },
+  {
     "band": "Bathory",
     "albums": []
+  },
+  {
+    "band": "Behemoth",
+    "albums": [
+      {
+        "album": "Opvs Contra Natvram",
+        "year": "2022"
+      }
+    ]
   },
   {
     "band": "Black Sabbath",
@@ -112,6 +130,15 @@
     "albums": []
   },
   {
+    "band": "Megadeth",
+    "albums": [
+      {
+        "album": "The Sick, the Dying... and the Dead!",
+        "year": "2022"
+      }
+    ]
+  },
+  {
     "band": "Melvins",
     "albums": []
   },
@@ -154,6 +181,15 @@
   {
     "band": "Queensrÿche",
     "albums": []
+  },
+  {
+    "band": "Razor",
+    "albums": [
+      {
+        "album": "Cycle of Contempt",
+        "year": "2022"
+      }
+    ]
   },
   {
     "band": "Sabbat",
