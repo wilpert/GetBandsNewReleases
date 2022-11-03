@@ -213,6 +213,15 @@
     "albums": []
   },
   {
+    "band": "Sepultura",
+    "albums": [
+      {
+        "album": "SepulQuarta",
+        "year": "2021"
+      }
+    ]
+  },
+  {
     "band": "Slayer",
     "albums": []
   },
